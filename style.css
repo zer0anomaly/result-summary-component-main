@@ -18,6 +18,7 @@ body {
 	width: 350px;
 	height: 500px;
 	border-radius: 35px;
+	color: white;
 	background: linear-gradient(to bottom, hsl(252, 100%, 67%), hsl(241, 81%, 54%));;
 	display: flex;
 	justify-content: center;
